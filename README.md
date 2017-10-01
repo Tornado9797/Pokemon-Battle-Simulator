@@ -1,7 +1,7 @@
 # Pokemon Battle Simulator
 A Scratch program that attempts to emulate a wild Pokémon battle from the original games.
 
-This program is what I worked on in my down time between school Scratch projects. I got nowhere close to completing this project, as such, only the Run function works properly.
+This program is what I worked on in my down time between school Scratch projects. I got nowhere close to completing this project, as such, only the Run function works properly. I didn't do extensive version cataloging, so this repository starts at v0.1.99.9.
 
 Scratch is required to run this program.
 
